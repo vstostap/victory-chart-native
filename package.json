@@ -45,9 +45,9 @@
     "react-native-svg-mock": "^1.0.2"
   },
   "peerDependencies": {
-    "react": "^15.3.0",
-    "react-native": "~0.38.0",
-    "react-native-svg": "^4.1.0"
+    "react": "^16.0.0",
+    "react-native": "^0.50.4",
+    "react-native-svg": "^6.0.0"
   },
   "dependencies": {
     "victory-chart": "^14.0.4",
