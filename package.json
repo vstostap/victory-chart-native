@@ -51,7 +51,7 @@
   },
   "dependencies": {
     "victory-chart": "^14.0.4",
-    "victory-core": "^10.0.3",
+    "victory-core": "^20.2.0",
     "victory-core-native": "^4.0.0"
   }
 }
