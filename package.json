@@ -50,8 +50,8 @@
     "react-native-svg": "^6.0.0"
   },
   "dependencies": {
-    "victory-chart": "^14.0.4",
+    "victory-chart": "^24.3.0",
     "victory-core": "^20.2.0",
-    "victory-core-native": "vstostap/victory-chart-native#34f67f2"
+    "victory-core-native": "vstostap/victory-core-native#30bb7da"
   }
 }
